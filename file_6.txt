@@ -1,0 +1,6 @@
+Transfiguration: 10(lect) 20(prac) 30(lab)
+Divination: 20(lect) 30(prac) 10(lab)
+DADA: 15(lect) 15(prac) 30(lab)
+Charms: 15(lect) 20(prac) 25(lab)
+Flying : 40(lect) 10(prac) 10(lab)
+Alchemy: 35(lect) 12(prac) 13(lab)
