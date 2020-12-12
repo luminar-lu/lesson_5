@@ -1,0 +1,8 @@
+du_Vallon 153218
+d'Herbley 31405
+de_La_Fer 14500
+d'Artagnan 20000
+de_Tremy 19999
+Bonacieux 48000
+Richelieu 200000
+Winter 1700000
